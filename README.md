@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a technical challenge created by the Indicium team as part of a recruitment process for a Data Scientist Intern position. It covers data cleaning, exploratory data analysis, feature engineering, and predictive modeling. The goal of this project is to analyze a movie dataset and provide insights to guide decision-making on potential film development.
+This project is a technical challenge created by the Indicium team as part of a recruitment process for a Data Scientist Intern position. It covers data cleaning, exploratory data analysis, feature engineering and predictive modeling. The goal of this project is to analyze a movie dataset and provide insights to guide decision-making on potential film development.
 
 ---
 
@@ -42,4 +42,5 @@ To run the notebook locally:
 
 ## License
 
-This repository is for educational purposes only. All datasets were provided within the course and are used here under fair use for non-commercial study and to demonstrate the skills acquired.
+This repository is for educational purposes only. The dataset was provided as part of the challenge and is used here under fair use for non-commercial study and to demonstrate my personal skills.
+
